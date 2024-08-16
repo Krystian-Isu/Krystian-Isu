@@ -18,9 +18,9 @@
         License: Unsplash License ( https://unsplash.com/license )
     -->
     <picture>
-        <source media="(prefers-color-scheme: dark)"  srcset="image/dark-theme/profile_readme_banner.png" />
-        <source media="(prefers-color-scheme: light)" srcset="image/light-theme/profile_readme_banner.png" />
-        <img src="image/dark-theme/profile_readme_banner.png"  alt="banner" />
+        <source media="(prefers-color-scheme: dark)"  srcset="image/dark-theme/profile_readme_banner.webp" />
+        <source media="(prefers-color-scheme: light)" srcset="image/light-theme/profile_readme_banner.webp" />
+        <img src="image/dark-theme/profile_readme_banner.webp"  alt="banner" />
     </picture>
 </div>
 
@@ -41,7 +41,6 @@
 
 [![Gmail](image/universal/links/gmail-badge.svg)](mailto:krystian.isu@gmail.com)
 [![Github](image/universal/links/github-badge.svg)](https://github.com/Krystian-Isu)
-[![Gitlab](image/universal/links/gitlab-badge.svg)](https://gitlab.com/Krystian-Isu)
 [![LinkedIn](image/universal/links/linkedin-badge.svg)](https://www.linkedin.com/in/krystian-isu/)
 </div>
 

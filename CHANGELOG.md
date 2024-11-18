@@ -10,7 +10,13 @@ By including dynamic content, such as GitHub statistics, the README offers insig
 contributions. The file serves as both a professional introduction and a practical resource for those interested 
 in collaborating or connecting with me in the software development community.
 
-<hr>
+<hr />
+
+## Ver. 1.0.3 - ( 2024-11-18 )
+### Fixed
+- Fixed a bug that caused the chart for the most commonly used languages to not display the correct data.
+
+<hr />
 
 ## Ver. 1.0.2 - ( 2024-08-16 )
 ### Changed
@@ -22,7 +28,7 @@ in collaborating or connecting with me in the software development community.
 ### Fixed
 - Fixed an issue that caused the main banner of the `README.md` file to not load when the internet connection was too weak.
 
-<hr>
+<hr />
 
 ## Ver. 1.0.1 - ( 2024-08-15 )
 ### Added
@@ -39,7 +45,7 @@ in collaborating or connecting with me in the software development community.
 - Fixed an issue that caused the pie chart to be way too large relative to the rest of the `README.md` file.
 - Alignment of elements in the `“Languages & frameworks”` tab with respect to the rest of the `README.md` file.
 
-<hr>
+<hr />
 
 ## Ver. 1.0.0 - ( 2024-08-14 )
 ### Added ( Initial Version )
@@ -62,4 +68,4 @@ in collaborating or connecting with me in the software development community.
 - Removed static images in favor of adaptive graphic elements to create a more dynamic and visually appealing profile.
 - Removed outdated links or contact information to ensure accuracy and relevance.
 
-<hr>
+<hr />

@@ -99,8 +99,8 @@
         </table>
     </div>
     <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Krystian-Isu&layout=donut&theme=transparent&hide_border=true&card_width=310&text_color=ECECEC&title_color=F4F4F4&disable_animations=true" />
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Krystian-Isu&layout=donut&theme=transparent&hide_border=true&card_width=310&text_color=191919&title_color=191919&disable_animations=true" />
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Krystian-Isu&layout=donut&theme=transparent&hide_border=true&card_width=300&text_color=ECECEC&title_color=F4F4F4&disable_animations=true" />
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Krystian-Isu&layout=donut&theme=transparent&hide_border=true&card_width=300&text_color=191919&title_color=191919&disable_animations=true" />
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Krystian-Isu&layout=donut&theme=transparent&hide_border=true&card_width=300&text_color=ECECEC&title_color=F4F4F4&disable_animations=true" width="415" height="240" align="right" alt="language statistic" />
     </picture>
     <br />
